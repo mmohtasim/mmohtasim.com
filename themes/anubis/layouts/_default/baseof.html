@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+{{ $dataTheme := "" }}
+{{ if eq site.Params.style "dark-without-switcher" }}
+    {{ $dataTheme = "dark" }}
+{{ end }}
+<html lang="{{ .Site.LanguageCode }}" data-theme="{{ $dataTheme }}">
+<head>
+    {{ block "head" . }}
+        {{ partial "head.html" . }}
+    {{ end }}
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+    <a class="skip-main" href="#main">{{ i18n "skipToContent" | humanize }}</a>
+    <div class="container">
+        <header class="common-header"> 
+            {{ block "header" . }}
+                {{ partial "header.html" . }}
+            {{ end }}
+        </header>
+        <main id="main" tabindex="-1"> 
+            {{ block "main" . }}{{ end }}
+        </main>
+        {{ block "footer" . }}
+            {{ partial "footer.html" . }}
+        {{ end }}
+    </div>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+</body>
+</html>
