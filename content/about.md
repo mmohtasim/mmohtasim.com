@@ -21,18 +21,16 @@ menu:
     weight: 10
 ---
 
-This is Mahmudul Mohtasim. I am currently studying MS in Computer Science in Brac University.
+This is Mahmudul Mohtasim. I am currently working as Data scientinst in [Coel Inc.](https://coel.run).
+
+I am currently studying MS in Computer Science in Brac University. And Doing Another MS in IICT from Bangladesh University and Engineering and Technology(BUET).
+
 I have graduated in Electrical and Electronics Engineering(EEE) form Bangladesh University of Engineering and Technology(BUET).
 
-My primary interest is in Machine learning, Deep Learning, Data Science, Distributed system and Embedded system. 
-
-Currently I am Working on Bengali OCR.
-I am also working on bulding a Bengali langulage model. For this, I am studying NLP right now.
+My primary interest is in Machine learning, Deep Learning, Data Science, Distributed system, Networking and Embedded system and Linux.
 
 Python is my go-to language.
-I know C and Kotlin(I don't know C++).
-
-I am learning Rust right now. I am thinking about learning Go but I don't know.
+I also know C, Kotlin, Bash, Rust.
 
 I don't use Facebook.
 
