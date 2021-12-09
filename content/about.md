@@ -1,12 +1,12 @@
 ---
-title: "About"
-description: ""
-date: "2021-04-13"
+title: About
+description: ''
+date: '2021-04-13'
 aliases:
-  - "about-me"
-  - "about-education"
-  - "contact"
-author: "Hugo Authors"
+  - about-me
+  - about-education
+  - contact
+author: Hugo Authors
 menu:
   about:
     name: About
@@ -19,9 +19,10 @@ menu:
     title: Subpage
     url: /about/subpage
     weight: 10
+draft: false
 ---
 
-This is Mahmudul Mohtasim. I am currently working as Data scientinst in [Coel Inc.](https://coel.run).
+I am Mahmudul Mohtasim. I am currently working as Data scientinst in [Coel Inc.](https://coel.run).
 
 I am currently studying MS in Computer Science in Brac University. And Doing Another MS in IICT from Bangladesh University and Engineering and Technology(BUET).
 
@@ -32,7 +33,7 @@ My primary interest is in Machine learning, Deep Learning, Data Science, Distrib
 Python is my go-to language.
 I also know C, Kotlin, Bash, Rust.
 
-I don't use Facebook.
+I don't have any Facebook account.
 
 These are online presence.
 
