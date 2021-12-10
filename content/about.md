@@ -20,7 +20,7 @@ menu:
     url: /about/subpage
     weight: 10
 draft: false
-lastmod: '2021-12-10T14:59:56.305Z'
+lastmod: '2021-12-10T15:05:32.967Z'
 ---
 
 I am Mahmudul Mohtasim. I am currently working as Data scientist in [Coel Inc.](https://coel.run).
