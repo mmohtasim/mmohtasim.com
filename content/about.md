@@ -1,6 +1,6 @@
 ---
 title: About
-description: ''
+description: About
 date: '2021-04-13'
 aliases:
   - about-me
@@ -20,13 +20,14 @@ menu:
     url: /about/subpage
     weight: 10
 draft: false
+lastmod: '2021-12-10T15:05:32.967Z'
 ---
 
-I am Mahmudul Mohtasim. I am currently working as Data scientinst in [Coel Inc.](https://coel.run).
+I am Mahmudul Mohtasim. I am currently working as Data scientist in [Coel Inc.](https://coel.run).
 
-I am currently studying MS in Computer Science in Brac University. And Doing Another MS in IICT from Bangladesh University and Engineering and Technology(BUET).
+I am currently studying MS in Computer Science in [Brac University](https://www.bracu.ac.bd/). And Doing Another MS in IICT from Bangladesh University and Engineering and Technology([BUET](https://www.buet.ac.bd)).
 
-I have graduated in Electrical and Electronics Engineering(EEE) form Bangladesh University of Engineering and Technology(BUET).
+I have graduated in Electrical and Electronics Engineering(EEE) form Bangladesh University of Engineering and Technology([BUET](https://www.buet.ac.bd)).
 
 My primary interest is in Machine learning, Deep Learning, Data Science, Distributed system, Networking and Embedded system and Linux.
 
@@ -39,7 +40,7 @@ These are online presence.
 
 * https://github.com/mmohtasim/
 * https://news.ycombinator.com/user?id=mmohtasim
-
+* https://www.linkedin.com/in/mahmudul-mohtasim/
 
 
 
