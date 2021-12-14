@@ -8,7 +8,6 @@
     {{ block "head" . }}
         {{ partial "head.html" . }}
     {{ end }}
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
     <a class="skip-main" href="#main">{{ i18n "skipToContent" | humanize }}</a>
@@ -25,16 +24,5 @@
             {{ partial "footer.html" . }}
         {{ end }}
     </div>
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
 </body>
 </html>
