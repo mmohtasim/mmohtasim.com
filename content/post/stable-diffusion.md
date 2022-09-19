@@ -4,7 +4,9 @@ date: 2022-09-20T02:44:32+06:00
 draft: false
 ---
 
-I have run stable diffusion on my GTX 1060. It has only 6gb of vram. So I used [this version.](https://github.com/basujindal/stable-diffusion)
+I have run stable diffusion on my GTX 1060.
+
+It has only 6gb of vram. So I used [this version.](https://github.com/basujindal/stable-diffusion)
 
 I tried to run the docker way. But the docker image became huge and it is based on ubuntu base image.
 
