@@ -1,7 +1,7 @@
 baseURL: https://mmohtasim.com/
 languageCode: en-us
 title: Mohtasim's blog
-theme: "PaperMod"
+theme: github.com/adityatelange/hugo-PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
