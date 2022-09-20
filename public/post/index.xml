@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Mohtasim&#39;s blog</title>
+    <link>https://mmohtasim.com/post/</link>
+    <description>Recent content in Posts on Mohtasim&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Sep 2022 00:28:43 +0600</lastBuildDate><atom:link href="https://mmohtasim.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stable Duffusion</title>
+      <link>https://mmohtasim.com/post/stable-duffusion-1/</link>
+      <pubDate>Wed, 21 Sep 2022 00:28:43 +0600</pubDate>
+      
+      <guid>https://mmohtasim.com/post/stable-duffusion-1/</guid>
+      <description>I have run stable diffusion on my GTX 1060.
+It has only 6gb of vram. So I used this version.
+I tried to run the docker way. But the docker image became huge and it is based on ubuntu base image.
+I actually stopped while building that image and found out the image was 14gb. So i run it in a simple virtual environment. And I have tensorflow==2.9 installed. So i have to use conda to match cuda version for the required pytorch cuda version.</description>
+    </item>
+    
+    <item>
+      <title>Stack</title>
+      <link>https://mmohtasim.com/post/stack/</link>
+      <pubDate>Wed, 21 Sep 2022 00:27:07 +0600</pubDate>
+      
+      <guid>https://mmohtasim.com/post/stack/</guid>
+      <description>This website is going to be the place for me to write some random thing that I want to share.
+This site used Hugo as static site generator. I was thinking about to try other static site generator. But the popularity and the total number of github stars of Hugo prevent me to try other alternatives. You can see other alternatives on this link
+The theme used here is Papermod This page is hosted in cloudflare pages.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://mmohtasim.com/post/about_me/</link>
+      <pubDate>Wed, 21 Sep 2022 00:21:32 +0600</pubDate>
+      
+      <guid>https://mmohtasim.com/post/about_me/</guid>
+      <description>I am Mahmudul Mohtasim. I am currently working as Data scientist in Ding.com.
+I previously worked for Coel Inc. as a data scientist.
+I am currently studying MS in Computer Science in Brac University. And Doing Another MS in IICT from Bangladesh University and Engineering and Technology(BUET).
+I have graduated in Electrical and Electronics Engineering(EEE) form Bangladesh University of Engineering and Technology(BUET).
+My primary interest is in Machine learning, Deep Learning, Data Science, Distributed system, Cryptography, Quantam Computing, Networking and Embedded system and Linux.</description>
+    </item>
+    
+    <item>
+      <title>Test post</title>
+      <link>https://mmohtasim.com/post/test_post/</link>
+      <pubDate>Wed, 21 Sep 2022 00:12:56 +0600</pubDate>
+      
+      <guid>https://mmohtasim.com/post/test_post/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
