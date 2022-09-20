@@ -2,7 +2,7 @@ baseURL: https://mmohtasim.com/
 languageCode: en-us
 title: Mohtasim's blog
 theme: PaperMod
-themesDir: ./themes/
+# themesDir: ./themes/
 
 enableRobotsTXT: true
 buildDrafts: false
