@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://mmohtasim.com/"
 languageCode = "en-us"
 title = "Home"
 theme = "anubis"
@@ -50,3 +50,7 @@ tag = "tags"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5

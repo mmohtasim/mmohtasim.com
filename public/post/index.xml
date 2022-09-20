@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Home</title>
-    <link>/post/</link>
+    <link>https://mmohtasim.com/post/</link>
     <description>Home (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Sep 2022 02:44:32 +0600</lastBuildDate>
     
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mmohtasim.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Stable Diffusion</title>
-      <link>/post/stable-diffusion/</link>
+      <link>https://mmohtasim.com/post/stable-diffusion/</link>
       <pubDate>Tue, 20 Sep 2022 02:44:32 +0600</pubDate>
       
-      <guid>/post/stable-diffusion/</guid>
+      <guid>https://mmohtasim.com/post/stable-diffusion/</guid>
       <description>&lt;p&gt;I have run stable diffusion on my GTX 1060.&lt;/p&gt;
 &lt;p&gt;It has only 6gb of vram. So I used &lt;a href=&#34;https://github.com/basujindal/stable-diffusion&#34;&gt;this version.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I tried to run the docker way. But the docker image became huge and it is based on ubuntu base image.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>About this website</title>
-      <link>/post/website/</link>
+      <link>https://mmohtasim.com/post/website/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/website/</guid>
+      <guid>https://mmohtasim.com/post/website/</guid>
       <description>&lt;p&gt;This website is going to be the place for me to write some random thing that I want to share.&lt;/p&gt;
 &lt;h2 id=&#34;this-site-used-hugohttpsgohugoio-as-static-site-generator&#34;&gt;This site used &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; as static site generator.&lt;/h2&gt;
 &lt;p&gt;I was thinking about to try other static site generator. But the popularity and the total number of github stars of Hugo prevent me to try other alternatives. You can see other alternatives on this &lt;a href=&#34;https://jamstack.org/generators/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>Test Content</title>
-      <link>/post/rich-content/</link>
+      <link>https://mmohtasim.com/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/rich-content/</guid>
+      <guid>https://mmohtasim.com/post/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube Privacy Enhanced Shortcode&lt;/h2&gt;

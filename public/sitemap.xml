@@ -2,38 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/post/</loc>
+    <loc>https://mmohtasim.com/</loc>
     <lastmod>2022-09-20T02:44:32+06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>/post/stable-diffusion/</loc>
+    <loc>https://mmohtasim.com/post/</loc>
     <lastmod>2022-09-20T02:44:32+06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://mmohtasim.com/post/stable-diffusion/</loc>
+    <lastmod>2022-09-20T02:44:32+06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmohtasim.com/about/</loc>
     <lastmod>2021-12-10T15:05:32+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>/post/website/</loc>
+    <loc>https://mmohtasim.com/post/website/</loc>
     <lastmod>2021-12-10T17:03:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://mmohtasim.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>/tags/privacy/</loc>
+    <loc>https://mmohtasim.com/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>/tags/shortcodes/</loc>
+    <loc>https://mmohtasim.com/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://mmohtasim.com/tags/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>/post/rich-content/</loc>
+    <loc>https://mmohtasim.com/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>/about/subpage/</loc>
+    <loc>https://mmohtasim.com/about/subpage/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://mmohtasim.com/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>/tags/index/</loc>
+    <loc>https://mmohtasim.com/tags/index/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
