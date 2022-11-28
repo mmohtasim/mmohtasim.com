@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Mohtasim&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Sep 2022 00:28:43 +0600</lastBuildDate><atom:link href="https://mmohtasim.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Nov 2022 14:07:43 +0600</lastBuildDate><atom:link href="https://mmohtasim.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TIL0000</title>
+      <link>https://mmohtasim.com/post/til0000/</link>
+      <pubDate>Sat, 26 Nov 2022 14:07:43 +0600</pubDate>
+      
+      <guid>https://mmohtasim.com/post/til0000/</guid>
+      <description>This is a new series of my blog post. TIL. If you don&amp;rsquo;t know, TIL means &amp;ldquo;Today I Learned&amp;rdquo;. It will be one or two lines of things I have learned recently.
+I numbered the TIL series as TIL0000 in the hope that I will publish 10000 posts one day.
+TIL0000 You dont have to do onehot encoding for catboost. Because catboost will automatically onehot encode if it find any catagorical feature.</description>
+    </item>
+    
     <item>
       <title>Stable Duffusion</title>
       <link>https://mmohtasim.com/post/stable-duffusion-1/</link>
